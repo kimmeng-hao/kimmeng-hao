@@ -67,7 +67,7 @@ Let’s build something amazing together! 🚀
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kimmenghao&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="[https://streak-stats.demolab.com/demo/preview.php?user=kimmeng-hao&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
