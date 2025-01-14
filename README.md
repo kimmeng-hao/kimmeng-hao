@@ -65,9 +65,7 @@ Let’s build something amazing together! 🚀
 <h4 align="left">🔥   My Stats :</h4>
 
 ###
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kimmeng-hao)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kimmeng-hao)](https://git.io/streak-stats)
 ###
 
 <div align="center">
